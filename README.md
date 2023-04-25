@@ -2,7 +2,7 @@
 
 <h2> My Portfolio </h2>
 
-  🌐<a href='wwww.Portfolio.com.br' target='_blank'>www.portfolio.com.br</a>🌐
+  🌐<a href='wwww.Portfolio.com.br' target='_blank'>https://portfolio-jacoud.pages.dev/</a>🌐
   
  <h2> About Me </h2>
    <p>Hi, I’m Matheus Jacoud. I'm from Brazil. I am studying Systems Analysis and Information Technology and I'm a self-taught front-end developer. I started out learning HTML, CSS and JavaScript, taught myself TypeScript and React and I am currently learning Redux. You can find some of my projects below. </p>
