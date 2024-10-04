@@ -1,12 +1,12 @@
 
 
+   <p>Hi, I’m Matheus Jacoud. I am a self-taught full stack developer, passionate about building clean, user-friendly, and efficient web applications. I am currently studying Systems Analysis and Information Technology. My journey began with HTML, CSS, and JavaScript, and since then, I have learned TypeScript, React, and Node. I am curious, organized, detail-oriented, and determined, with a strong comfort level in the MERN stack, but always eager to explore new technologies and languages.</p>
+
 <h2> My Portfolio </h2>
 
   🌐<a href='wwww.Portfolio.com.br' target='_blank'>https://portfolio-jacoud.pages.dev/</a>🌐
   
  <h2> About Me </h2>
-   <p>Hi, I’m Matheus Jacoud. I'm from Brazil. I am studying Systems Analysis and Information Technology and I'm a self-taught front-end developer. I started out learning HTML, CSS and JavaScript, taught myself TypeScript and React and I am currently learning Golang. You can find some of my projects below. </p>
-
 <h2> My Tech Stack <h2>
 <div style="display: inline_block">
   <img align="center" alt="Math-Js" height="30" width="140" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
