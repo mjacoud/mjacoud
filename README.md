@@ -30,7 +30,7 @@
   <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank" rel='nofollow'></a> 
 </div>
 
-# Blog posts
+<!-- # Blog posts
 <!-- BLOG-POST-LIST:START -->
 <!--- [Soft Skills for Devs](https://dev.to/pachicodes/soft-skills-for-devs-edf)-->
 <!-- BLOG-POST-LIST:END -->
