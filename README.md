@@ -1,8 +1,11 @@
 
  <h2> About Me </h2>
 
-   <p>Hi, I’m Matheus Jacoud. I am a self-taught full stack developer, passionate about building clean, user-friendly, and efficient web applications. I am currently studying Systems Analysis and Information Technology. My journey began with HTML, CSS, and JavaScript, and since then, I have learned TypeScript, React, and Node. I am curious, organized, detail-oriented, and determined, with a strong comfort level in the MERN stack, but always eager to explore new technologies and languages.</p>
-
+<div diplay="flex" flexDirection="column">
+   <p>Hi, I’m Matheus Jacoud. I am a self-taught full stack developer, passionate about building clean, user-friendly, and efficient web applications. I am currently studying Systems Analysis and Information Technology. My journey began with HTML, CSS, and JavaScript, and since then, I have learned TypeScript, React, and Node. I am curious, organized, detail-oriented, and determined, with a strong comfort level in the MERN stack, but always eager to explore new technologies and languages.
+   </p>
+ <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+</div>
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=mjacoud&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
